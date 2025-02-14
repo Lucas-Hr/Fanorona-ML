@@ -2,12 +2,11 @@
 TP Fanorona ML/Algo
 
 #### Membres du groupe ESIIA :
-###### RAZAIARIMIHAJASOA Tsantaniony Fankasitrahana N03
-###### RABEANTOANDRO Mirantsoa Adrianna N12
-###### RAKOTOMALALA Nirinifitiavana Sarobidy N15
-jhj
-###### RANDRIAMIARISOA Henintsoa Lucas N19
-###### RAKOTOHARIMALALA Ny Hasina Sedera N20
+###### RAZAIARIMIHAJASOA Tsantaniony Fankasitrahana N03 : Partie III - Decision Tree
+###### RABEANTOANDRO Mirantsoa Adrianna N12 : Partie III - Decision Tree
+###### RAKOTOMALALA Nirinifitiavana Sarobidy N15 : Partie III - KNN
+###### RANDRIAMIARISOA Henintsoa Lucas N19 : Partie II - Interface Graphique, Partie III - Generation dataset
+###### RAKOTOHARIMALALA Ny Hasina Sedera N20 : Partie I - Algorithme Minimax - Alpha beta
 
 #### Membre du groupe IMTICIA :
-###### RASOLONJATOVO Soatiana Andrianina N12
+###### RASOLONJATOVO Soatiana Andrianina N12 : Partie I - Algorithme Minimax - Alpha beta
